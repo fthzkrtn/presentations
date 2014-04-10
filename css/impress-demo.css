@@ -797,6 +797,12 @@ pre code {
     font-size: 12px;
 }
 
+#bored h4 img{
+    position: relative;
+    top: 10px;
+    margin-right: 5px;
+}
+
 /*
     There is one funny thing I just realized.
 
